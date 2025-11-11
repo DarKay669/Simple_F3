@@ -1,0 +1,16 @@
+[
+{
+  "modid": "simplef3",
+  "name": "Simple F3",
+  "description": "The F3 screen is now more lighter.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DarKay__"],
+  "credits": "Toute distribution ou reproduction même partielle sans l'accord de l'auteur est strictement interdite.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
